@@ -11,3 +11,5 @@
 9.Create a MEAN Stack application
 10. Most frequesntly asked Node js Questions
 
+Resource:
+`https://www.youtube.com/watch?v=JnvKXcSI7yk`
